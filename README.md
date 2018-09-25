@@ -1,5 +1,5 @@
 # Virtual-Pet
-This project invoved utilizing Java to create a virtual pet.
+This project used Java to create a virtual pet. Pookie, the blobfish, can be fed, played with and cleaned up after.
 
 ## Skills Required
 * Git / Bash
